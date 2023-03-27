@@ -1,1 +1,1 @@
-# serverlaess-aws-lambda-python
+# aws-lambda-python
